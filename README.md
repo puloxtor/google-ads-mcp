@@ -1,5 +1,7 @@
 # Google Ads MCP Server
 
+> **This is a deployment copy of [googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp)** (Apache 2.0), unchanged except for an `.env.example` describing the variables needed to run it as a remote MCP server on Railway with Google OAuth. All credit for the server goes to the upstream authors; report bugs and send changes there.
+
 This repo contains the source code for running an
 [MCP](https://modelcontextprotocol.io) server that interacts with the
 [Google Ads API](https://developers.google.com/google-ads/api).
